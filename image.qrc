@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>res/bl_corner.png</file>
+        <file>res/br_corner.png</file>
+        <file>res/gameover.png</file>
+        <file>res/h_body.png</file>
+        <file>res/headdown.png</file>
+        <file>res/headleft.png</file>
+        <file>res/headright.png</file>
+        <file>res/headup.png</file>
+        <file>res/logo.png</file>
+        <file>res/rat.png</file>
+        <file>res/tail.png</file>
+        <file>res/taildown.png</file>
+        <file>res/tailleft.png</file>
+        <file>res/tailright.png</file>
+        <file>res/tailup.png</file>
+        <file>res/tl_corner.png</file>
+        <file>res/tr_corner.png</file>
+        <file>res/v_body.png</file>
+        <file>res/icon.png</file>
+        <file>res/rats.png</file>
+        <file>res/start.png</file>
+        <file>res/background.jpg</file>
+    </qresource>
+</RCC>
